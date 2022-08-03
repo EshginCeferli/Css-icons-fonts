@@ -1,0 +1,22 @@
+div {
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  border-top-right-radius: 35%;
+  border-bottom-left-radius: 35%;
+  background-color: rgb(180, 60, 60);
+  margin-left: 40%;
+  margin-top: 6%;
+}
+
+i {
+  position: absolute;
+  color: white;
+  font-size: 127px;
+  margin-top: 11%;
+  margin-left: 45%;
+  z-index: 1;
+}
+h1{
+    position: absolute;
+}
